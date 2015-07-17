@@ -17,13 +17,13 @@ title: About
 Пример кода:
 
 ```
-df <- swiss
-fit <- lm(Fertility ~ Examination + Catholic, data = swiss)
-summary(fit)
-confint(fit)
-ggplot(swiss, aes(x = Catholic, y = Fertility)) + 
-  geom_point() + 
-  geom_smooth(method = 'lm')
+df <- swiss    
+fit <- lm(Fertility ~ Examination + Catholic, data = swiss)    
+summary(fit)    
+confint(fit)    
+ggplot(swiss, aes(x = Catholic, y = Fertility)) +     
+  geom_point() +     
+  geom_smooth(method = 'lm')    
 ```
 
 Пример формулы: $ H_0 $
