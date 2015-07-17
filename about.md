@@ -16,7 +16,7 @@ title: About
 
 Пример кода:
 
-```R
+```
 df <- swiss    
 fit <- lm(Fertility ~ Examination + Catholic, data = swiss)    
 summary(fit)    
