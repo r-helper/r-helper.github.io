@@ -3,19 +3,7 @@ layout: default
 title: About
 ---
 
-About
-========
+= Об этом сайте
 
-
-
-About this site
-===============
-
-
-Elsewhere
-=========
-
-
-The Setup
-==============
-[List of some software, services and tools I use](/usesthis.html)
+Это небольшой учебный сайт, посвященный изучению
+и применению языка R.
