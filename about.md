@@ -16,7 +16,7 @@ title: About
 
 Пример кода:
 
-```r
+```
 df <- swiss
 fit <- lm(Fertility ~ Examination + Catholic, data = swiss)
 summary(fit)
@@ -26,7 +26,5 @@ ggplot(swiss, aes(x = Catholic, y = Fertility)) +
   geom_smooth(method = 'lm')
 ```
 
-Пример формулы:
-
-$$ H_0 $$
+Пример формулы: $ H_0 $
 
