@@ -1,0 +1,11 @@
+# Site settings
+title: R-helper
+email: r-helper@users.noreply.github.com
+description: R-helper
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://r-helper.github.io" # the base hostname & protocol for your site
+twitter_username: R4_helper
+github_username:  r-helper
+
+# Build settings
+markdown: kramdown
