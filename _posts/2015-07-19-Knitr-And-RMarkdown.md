@@ -3,6 +3,8 @@ title: Knitr и RMarkdown
 layout: post
 ---
 
+![](/images/k1.jpg)
+
 RMarkdown (Rmd файл) - это обычный md-файл с некоторыми добавками, 
 которые включают в себя код R и некоторые опции. 
 [Knitr](http://kbroman.org/knitr_knutshell/)
