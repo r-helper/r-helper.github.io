@@ -1,5 +1,5 @@
 ---
-title: Advanced-R
+title: Advanced R
 layout: post
 ---
 
